@@ -4,8 +4,6 @@
 
 ---
 
-![Profile views](https://komarev.com/ghpvc/?username=your-username&color=blueviolet)
-
 - 🌱 I’m currently honing my skills in front-end web development and learning about responsive design.
 - 💼 Building engaging and responsive web applications using HTML, CSS, and JavaScript.
 - 🔭 I’m working on a **news website** project with a focus on design improvements and functionality.
@@ -26,11 +24,6 @@
 
 ---
 
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" alt="GitHub Streak"/>
-</p>
 
 ---
 
